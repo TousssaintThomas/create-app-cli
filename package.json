@@ -1,0 +1,14 @@
+{
+  "name": "create-app-cli",
+  "version": "1.0.0",
+  "description": "App boilerplate generator cli tool.",
+  "main": "index.js",
+  "author": "toussaint.h.thomas@gmail.com",
+  "license": "yes",
+  "private": true,
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "commander": "^9.4.1",
+    "conf": "^10.2.0"
+  }
+}
